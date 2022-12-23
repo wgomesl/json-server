@@ -1,0 +1,171 @@
+{
+  "cervejas": [
+    {
+      "id": 1,
+      "nome": "Brahma latão 473ml",
+      "unidade": 1,
+      "preco": "R$ 4.50",
+      "imagem": "https://apoioentrega.vteximg.com.br/arquivos/ids/490171-500-500/05609dd3dcb5d8f1a51d5ee96eeff8f8_cerveja-brahma-chopp-lata-473ml_lett_1.jpg?v=637626381195500000"
+    },
+    {
+      "id": 2,
+      "nome": "Antarctica latão 473ml",
+      "unidade": 1,
+      "preco": "R$ 4.50",
+      "imagem": "https://superprix.vteximg.com.br/arquivos/ids/203443-600-600/eb568a66f40d1a0c893bffb8930f981a_cerveja-antarctica-473ml--lata-_lett_1.jpg?v=637695793564930000"
+    },
+    {
+      "id": 3,
+      "nome": "Heineken Long Neck 330ml",
+      "unidade": 1,
+      "preco": "R$ 6.00",
+      "imagem": "https://www.bebifestas.com.br/wp-content/uploads/2021/09/Cerveja-Heineken-Long-Neck.webp"
+    },
+    {
+      "id": 4,
+      "nome": "Corona Long Neck 330ml",
+      "unidade": 1,
+      "preco": "R$ 6.00",
+      "imagem": "https://supermercadopaisefilhos.loji.com.br/storage/uploads/El5SV2NreYv5gYV7HhQu7vp0va764VudiDiRgYjl.png"
+    },
+    {
+      "id": 5,
+      "nome": "Budweiser Long Neck 330ml",
+      "unidade": 1,
+      "preco": "R$ 5.00",
+      "imagem": "https://redemachado.com.br/arquivos/153045.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "Stella Artois Long Neck 330ml",
+      "unidade": 1,
+      "preco": "R$ 6.00",
+      "imagem": "https://us-southeast-1.linodeobjects.com/storage/unicooper/media/uploads/produto/cerveja_stella_artois_330ml_lgnk_9dd3b9da-053c-4d3e-b3e6-09a3e55f4264.jpg"
+    },
+    {
+      "id": 7,
+      "nome": "Império gold Long Neck 210ml",
+      "unidade": 1,
+      "preco": "R$ 4.00",
+      "imagem": "https://supermaraja.com.br/wp-content/uploads/2020/07/cerveja-imperio-gold-210ml_1-600x600.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Brahma duplo malte 350ml",
+      "unidade": 1,
+      "preco": "R$ 4.00",
+      "imagem": "https://emporiodacerveja.vtexassets.com/arquivos/ids/175906-800-auto?v=637196201142000000&width=800&height=auto&aspect=true"
+    }
+  ],
+  "destilados": [
+    {
+      "id": 1,
+      "nome": "Absolut Vodka 1000ml",
+      "unidade": 2,
+      "preco": "R$ 69.90",
+      "imagem": "https://imgs.casasbahia.com.br/1535938673/1xg.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Red Label Whisky Johnnie Walker 500ml",
+      "unidade": 1,
+      "preco": "R$ 58.99",
+      "imagem": "https://carrefourbr.vtexassets.com/arquivos/ids/198387-540-auto?v=637272442041570000&width=540&height=auto&aspect=true"
+    },
+    {
+      "id": 3,
+      "nome": "Cachaça Pitú 965ml",
+      "unidade": 1,
+      "preco": "R$ 16.00",
+      "imagem": "https://www.hsbebidas.com.br/wp-content/uploads/2018/02/Aguardente-Pitu-Garrafa-965ml-1.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Cachaça Velho Barreiro 910ml",
+      "unidade": 1,
+      "preco": "R$ 35.00",
+      "imagem": "https://santaluzia.vteximg.com.br/arquivos/ids/970775/520640.jpg?v=637385430025270000"
+    }
+  ],
+  "coqueteis": [
+    {
+      "id": 1,
+      "nome": "Caipirinha",
+      "unidade": 1,
+      "preco": "R$ 15.00",
+      "imagem": "https://bartenderstore.com.br/wp-content/uploads/2022/07/Caipirinha-tradicional-Foto-dentro-do-blog--1024x512.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Dry Martini",
+      "unidade": 1,
+      "preco": "R$ 12.00",
+      "imagem": "https://blog.ginbrasil.com.br/wp-content/uploads/2020/07/Gin-Brasil-13-Dry-Martini-aprenda-como-fazer-esse-cl%C3%A1ssico.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Pinã Colada",
+      "unidade": 1,
+      "preco": "R$ 10.00",
+      "imagem": "https://cdn.shopify.com/s/files/1/0037/6714/0422/products/swzjjrcehfuoah8kn4hz_1000x.jpg?v=1615853893"
+    },
+    {
+      "id": 4,
+      "nome": "Bloody Mary",
+      "unidade": 1,
+      "preco": "R$ 12.00",
+      "imagem": "https://i2e3v6x7.stackpathcdn.com/wp-content/uploads/2017/05/bloody-mary-recipe.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Margarita",
+      "unidade": 1,
+      "preco": "R$ 10.50",
+      "imagem": "https://drinkoteket.com/wp-content/uploads/margarita-1.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "Mojito",
+      "unidade": 1,
+      "preco": "R$ 12.00",
+      "imagem": "https://conteudo.imguol.com.br/2013/05/03/mojito-1367592561853_615x300.jpg.webp"
+    },
+    {
+      "id": 7,
+      "nome": "Negroni",
+      "unidade": 1,
+      "preco": "R$ 12.00",
+      "imagem": "https://meudrink.com.br/media/uploads/2010/08/negroni1-450x500.jpg"
+    }
+  ],
+  "refeicoes": [
+    {
+      "id": 1,
+      "nome": "Calabresa acebolada",
+      "unidade": 1,
+      "preco": "R$ 18.00",
+      "imagem": "https://www.homeit.com.br/wp-content/uploads/2022/10/23008227.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Frango a passarinho",
+      "unidade": 1,
+      "preco": "R$ 32.00",
+      "imagem": "https://conteudo.imguol.com.br/c/entretenimento/96/2022/05/23/frango-a-passarinho-1653316135157_v2_1170x540.jpg.webp"
+    },
+    {
+      "id": 3,
+      "nome": "Bolinho de bacalhau",
+      "unidade": 2,
+      "preco": "R$ 18.00",
+      "imagem": "https://vovopalmirinha.com.br/wp-content/uploads/2019/04/bolinho-de-bacalhau-702x336.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Batata com cheddar e bacon",
+      "unidade": 1,
+      "preco": "R$ 24.00",
+      "imagem": "https://www.sabornamesa.com.br/media/k2/items/cache/94ea69ba6d138bccade59f45aa6f86ca_XL.jpg"
+    }
+  ]
+}
