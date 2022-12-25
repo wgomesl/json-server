@@ -1,5 +1,19 @@
-# json-server
-projeto individual do módulo 3 do curso Programadores Cariocas, com a parceria do Senac RJ + Resilia. 
+# Projeto individual - Estão servidos?
 
-Link para acessar a hospedagem do servidor no render: 
+> 🍺 Tema - `Pub`
+
+## 📌 Objetivo: 
+O projeto consistiu em desenvolver um servidor json que contivesse 3 rotas obrigatórias com 4 ou mais dados pré-preenchidos. 
+### Cada rota contém os seguintes métodos:
+- GET
+- POST
+- PUT
+- DELETE
+
+## 🚀 Tecnologias:
+- Node.js
+- Javascript
+- Render
+
+## 👨‍💻 Link para acessar a hospedagem do servidor no render: 
 https://pub-server-w57g.onrender.com
