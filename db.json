@@ -136,6 +136,13 @@
       "unidade": 1,
       "preco": "R$ 12.00",
       "imagem": "https://cdn.diffords.com/contrib/stock-images/2019/06/5cfa92d91f3eb.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Cosmopolitan",
+      "unidade": 1,
+      "preco": "R$ 12.00",
+      "imagem": "https://img2.gratispng.com/20181124/yy/kisspng-cosmopolitan-cocktail-garnish-martini-bacardi-cock-cocktail-fruits-5bf9305daccae4.2302500315430575017078.jpg"
     }
   ],
   "refeicoes": [
