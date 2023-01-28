@@ -93,35 +93,35 @@
       "nome": "Caipirinha",
       "unidade": 1,
       "preco": "R$ 15.00",
-      "imagem": "https://bartenderstore.com.br/wp-content/uploads/2022/07/Caipirinha-tradicional-Foto-dentro-do-blog--1024x512.jpg"
+      "imagem": "https://assets.stickpng.com/thumbs/587e33b19686194a55adab83.png"
     },
     {
       "id": 2,
       "nome": "Dry Martini",
       "unidade": 1,
       "preco": "R$ 12.00",
-      "imagem": "https://blog.ginbrasil.com.br/wp-content/uploads/2020/07/Gin-Brasil-13-Dry-Martini-aprenda-como-fazer-esse-cl%C3%A1ssico.jpg"
+      "imagem": "http://1.bp.blogspot.com/-ULFbY11Vg9k/T5m15CK_aUI/AAAAAAAAACg/lAmiXD3W1_8/s640/pinkDirtyMartini_2.png"
     },
     {
       "id": 3,
       "nome": "Pinã Colada",
       "unidade": 1,
       "preco": "R$ 10.00",
-      "imagem": "https://cdn.shopify.com/s/files/1/0037/6714/0422/products/swzjjrcehfuoah8kn4hz_1000x.jpg?v=1615853893"
+      "imagem": "https://www.saq.com/media/catalog/product/p/i/pina-colada-ec-1_1610404540.png?quality=80&fit=bounds&height=&width="
     },
     {
       "id": 4,
       "nome": "Bloody Mary",
       "unidade": 1,
       "preco": "R$ 12.00",
-      "imagem": "https://i2e3v6x7.stackpathcdn.com/wp-content/uploads/2017/05/bloody-mary-recipe.jpg"
+      "imagem": "https://toppng.com/uploads/preview/bloody-mary-bloody-mary-cocktail-11562943153t3aeq9snrc.png"
     },
     {
       "id": 5,
       "nome": "Margarita",
       "unidade": 1,
       "preco": "R$ 10.50",
-      "imagem": "https://drinkoteket.com/wp-content/uploads/margarita-1.jpg"
+      "imagem": "https://e7.pngegg.com/pngimages/994/334/png-clipart-margarita-cocktail-drink-mixer-daiquiri-cocktail-recipe-cocktail.png"
     },
     {
       "id": 6,
