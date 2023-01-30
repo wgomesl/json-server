@@ -90,10 +90,10 @@
   "coqueteis": [
     {
       "id": 1,
-      "nome": "Caipirinha",
+      "nome": "Cosmopolitan",
       "unidade": 1,
-      "preco": "R$ 15.00",
-      "imagem": "https://media.istockphoto.com/id/1227433898/pt/foto/caipirinha-white-background.jpg?s=170667a&w=0&k=20&c=vj9gp0oqj6A6iAV0Rei4n0vu1yArzUNFKPwKVR96NAM="
+      "preco": "R$ 12.00",
+      "imagem": "http://shake-that.com/wp-content/uploads/2015/07/Cosmopolitan.jpg"
     },
     {
       "id": 2,
@@ -139,10 +139,10 @@
     },
     {
       "id": 8,
-      "nome": "Cosmopolitan",
+      "nome": "Caipirinha",
       "unidade": 1,
-      "preco": "R$ 12.00",
-      "imagem": "http://shake-that.com/wp-content/uploads/2015/07/Cosmopolitan.jpg"
+      "preco": "R$ 15.00",
+      "imagem": "https://media.istockphoto.com/id/1227433898/pt/foto/caipirinha-white-background.jpg?s=170667a&w=0&k=20&c=vj9gp0oqj6A6iAV0Rei4n0vu1yArzUNFKPwKVR96NAM="
     }
   ],
   "refeicoes": [
