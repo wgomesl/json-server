@@ -26,14 +26,14 @@
       "nome": "Corona Long Neck 330ml",
       "unidade": 1,
       "preco": "R$ 6.00",
-      "imagem": "https://supermercadopaisefilhos.loji.com.br/storage/uploads/El5SV2NreYv5gYV7HhQu7vp0va764VudiDiRgYjl.png"
+      "imagem": "https://teravirt.s3-accelerate.amazonaws.com/uploads/sites/95/2021/09/cerveja-long-neck-330ml-corona-extra-un.jpg"
     },
     {
       "id": 5,
       "nome": "Budweiser Long Neck 330ml",
       "unidade": 1,
       "preco": "R$ 5.00",
-      "imagem": "https://trimais.vteximg.com.br/arquivos/ids/1042450-1000-1000/foto_original.jpg?v=638092273095270000"
+      "imagem": "https://cdn.b4c.inf.br/storage/acouguebg/1000/cerveja-budweiser-long-neck-330-ml_1_1627743158.jpg"
     },
     {
       "id": 6,
@@ -93,28 +93,28 @@
       "nome": "Caipirinha",
       "unidade": 1,
       "preco": "R$ 15.00",
-      "imagem": "https://static.wixstatic.com/media/c4b5e8_675ad324a37e47c2a6cbe341dc153eb9~mv2.png/v1/fit/w_475%2Ch_452%2Cal_c/file.png"
+      "imagem": "https://media.istockphoto.com/id/1227433898/pt/foto/caipirinha-white-background.jpg?s=170667a&w=0&k=20&c=vj9gp0oqj6A6iAV0Rei4n0vu1yArzUNFKPwKVR96NAM="
     },
     {
       "id": 2,
       "nome": "Dry Martini",
       "unidade": 1,
       "preco": "R$ 12.00",
-      "imagem": "http://1.bp.blogspot.com/-ULFbY11Vg9k/T5m15CK_aUI/AAAAAAAAACg/lAmiXD3W1_8/s640/pinkDirtyMartini_2.png"
+      "imagem": "https://cdn.diffords.com/contrib/stock-images/2018/05/5af302305e75f.jpg"
     },
     {
       "id": 3,
       "nome": "Pinã Colada",
       "unidade": 1,
       "preco": "R$ 10.00",
-      "imagem": "https://www.saq.com/media/catalog/product/p/i/pina-colada-ec-1_1610404540.png?quality=80&fit=bounds&height=&width="
+      "imagem": "https://cdn.diffords.com/contrib/stock-images/2016/7/20/20169b1137fb75b3de0272d239a191d97fd9.jpg"
     },
     {
       "id": 4,
       "nome": "Bloody Mary",
       "unidade": 1,
       "preco": "R$ 12.00",
-      "imagem": "https://s3.amazonaws.com/newamsterdamspirits.com/mooseassets2/s3fs-public/NEWAM_BloodyMary_Mango_0.png?vZj.GE7v8qD4amKz3P2smu9nvadn3XzC"
+      "imagem": "https://img.freepik.com/fotos-premium/coquetel-bloody-mary-em-um-fundo-branco_621301-136.jpg?w=2000"
     },
     {
       "id": 5,
@@ -142,7 +142,7 @@
       "nome": "Cosmopolitan",
       "unidade": 1,
       "preco": "R$ 12.00",
-      "imagem": "https://www.seekpng.com/png/full/599-5996619_skyy-infusions-citrus-cosmo-quai-sud-cosmopolitan-cocktail.png"
+      "imagem": "http://shake-that.com/wp-content/uploads/2015/07/Cosmopolitan.jpg"
     }
   ],
   "refeicoes": [
